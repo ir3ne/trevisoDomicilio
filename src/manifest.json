@@ -1,6 +1,6 @@
 {
-  "name": "Ferrara a Domicilio",
-  "short_name": "FerraraDomicilio",
+  "name": "Treviso a Domicilio",
+  "short_name": "TrevisoDomicilio",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
