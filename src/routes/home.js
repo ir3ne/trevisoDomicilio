@@ -60,6 +60,11 @@ export default class Home extends Component {
 						Developed with ❤️ by
 						<a class="text-orange-500" href={process.env.PREACT_APP_DEV_LINK}>{process.env.PREACT_APP_DEV_NAME}</a>
 					</p>
+					<p class="mb-5">
+						Forked from
+						<a class="ml-2 text-orange-500" target="_blank" rel="noopener noreferrer" href="https://tomma5o.com/">Tomma5o</a>
+					</p>
+					
 					<a href="https://github.com/tomma5o/domicilioBoilerplate"
 						target="_blank"
 						rel="noopener noreferrer"
